@@ -1,0 +1,40 @@
+h1{
+    color: red;
+
+}
+h3{
+    font-style: italic;
+    color: red;
+}
+.con1{
+    color: brown;
+    line-height: 40px;
+}
+.con2{
+    text-decoration: line-through
+}
+
+.con4{
+    text-decoration: underline;
+    font-style: italic;
+    
+}
+.con5{
+    color: brown;
+    letter-spacing: 5px;
+    
+}
+p{
+    color: brown;
+}
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+}
+.con3{
+    background-color: yellow;
+}
+.con6{
+    background-color: yellow;
+}
